@@ -4,21 +4,1439 @@
     "testament": "OT",
     "level": "easy",
     "question": "What did God create in the beginning?",
-    "choices": ["The heavens and the earth", "The Garden of Eden", "Adam and Eve", "The sun and the moon"],
+    "choices": [
+      "The heavens and the earth",
+      "The Garden of Eden",
+      "Adam and Eve",
+      "The sun and the moon"
+    ],
     "answer": 0,
     "reference": "Genesis 1:1",
     "verse": "In the beginning God created the heavens and the earth.",
     "explanation": "The very first verse of the Bible tells us that God is the Creator of everything that exists."
   },
   {
+    "id": "ot-easy-002",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What did God tell Noah to build?",
+    "choices": [
+      "An ark",
+      "A tower",
+      "A temple",
+      "A city wall"
+    ],
+    "answer": 0,
+    "reference": "Genesis 6:14",
+    "verse": "Make yourself an ark of gopherwood; make rooms in the ark, and cover it inside and outside with pitch.",
+    "explanation": "God warned Noah about the coming flood and told him to build a huge boat to save his family and the animals."
+  },
+  {
+    "id": "ot-easy-003",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What sign did God put in the clouds after the flood?",
+    "choices": [
+      "A rainbow",
+      "A star",
+      "A dove",
+      "A cross"
+    ],
+    "answer": 0,
+    "reference": "Genesis 9:13",
+    "verse": "I set My rainbow in the cloud, and it shall be for the sign of the covenant between Me and the earth.",
+    "explanation": "The rainbow is God's promise that He will never again destroy the whole earth with a flood."
+  },
+  {
+    "id": "ot-easy-004",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What did David use to defeat Goliath?",
+    "choices": [
+      "A sling and a stone",
+      "A sword",
+      "A bow and arrow",
+      "A spear"
+    ],
+    "answer": 0,
+    "reference": "1 Samuel 17:49",
+    "verse": "Then David put his hand in his bag and took out a stone; and he slung it and struck the Philistine in his forehead, so that the stone sank into his forehead, and he fell on his face to the earth.",
+    "explanation": "Young David trusted God instead of armor, and God gave him victory over the giant."
+  },
+  {
+    "id": "ot-easy-005",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What swallowed Jonah?",
+    "choices": [
+      "A great fish",
+      "A lion",
+      "A bear",
+      "The earth"
+    ],
+    "answer": 0,
+    "reference": "Jonah 1:17",
+    "verse": "Now the LORD had prepared a great fish to swallow Jonah. And Jonah was in the belly of the fish three days and three nights.",
+    "explanation": "Jonah ran from God's call to preach in Nineveh, but God used a great fish to bring him back."
+  },
+  {
+    "id": "ot-easy-006",
+    "testament": "OT",
+    "level": "easy",
+    "question": "Finish the verse: \"The LORD is my ___; I shall not want.\"",
+    "choices": [
+      "shepherd",
+      "king",
+      "rock",
+      "light"
+    ],
+    "answer": 0,
+    "reference": "Psalm 23:1",
+    "verse": "The LORD is my shepherd; I shall not want.",
+    "explanation": "David, who was once a shepherd himself, describes how God guides, protects and provides for His people."
+  },
+  {
+    "id": "ot-easy-007",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What animals did God keep from hurting Daniel?",
+    "choices": [
+      "Lions",
+      "Bears",
+      "Wolves",
+      "Snakes"
+    ],
+    "answer": 0,
+    "reference": "Daniel 6:22",
+    "verse": "My God sent His angel and shut the lions' mouths, so that they have not hurt me, because I was found innocent before Him; and also, O king, I have done no wrong before you.",
+    "explanation": "Daniel kept praying to God even when it was against the law, and God protected him in the lions' den."
+  },
+  {
+    "id": "ot-easy-008",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What did God form the first man from?",
+    "choices": [
+      "The dust of the ground",
+      "A rib",
+      "Water",
+      "Clay from a river"
+    ],
+    "answer": 0,
+    "reference": "Genesis 2:7",
+    "verse": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living being.",
+    "explanation": "God personally made Adam and gave him life with His own breath."
+  },
+  {
+    "id": "ot-easy-009",
+    "testament": "OT",
+    "level": "easy",
+    "question": "Which sea did God part so Israel could cross on dry land?",
+    "choices": [
+      "The Red Sea",
+      "The Dead Sea",
+      "The Sea of Galilee",
+      "The Mediterranean Sea"
+    ],
+    "answer": 0,
+    "reference": "Exodus 14:21",
+    "verse": "Then Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea into dry land, and the waters were divided.",
+    "explanation": "God rescued Israel from Pharaoh's army by opening a path through the sea."
+  },
+  {
+    "id": "ot-easy-010",
+    "testament": "OT",
+    "level": "easy",
+    "question": "How many commandments did God write on the stone tablets?",
+    "choices": [
+      "Ten",
+      "Seven",
+      "Twelve",
+      "Forty"
+    ],
+    "answer": 0,
+    "reference": "Exodus 34:28",
+    "verse": "So he was there with the LORD forty days and forty nights; he neither ate bread nor drank water. And He wrote on the tablets the words of the covenant, the Ten Commandments.",
+    "explanation": "On Mount Sinai God gave Moses the Ten Commandments to show His people how to love Him and each other."
+  },
+  {
+    "id": "ot-easy-011",
+    "testament": "OT",
+    "level": "easy",
+    "question": "On which day did God rest from His work of creation?",
+    "choices": [
+      "The seventh day",
+      "The first day",
+      "The sixth day",
+      "The tenth day"
+    ],
+    "answer": 0,
+    "reference": "Genesis 2:2",
+    "verse": "And on the seventh day God ended His work which He had done, and He rested on the seventh day from all His work which He had done.",
+    "explanation": "God finished creation in six days and rested on the seventh, giving us a pattern of work and rest."
+  },
+  {
+    "id": "ot-easy-012",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What was the name of the son born to Abraham and Sarah in their old age?",
+    "choices": [
+      "Isaac",
+      "Ishmael",
+      "Jacob",
+      "Joseph"
+    ],
+    "answer": 0,
+    "reference": "Genesis 21:3",
+    "verse": "And Abraham called the name of his son who was born to him—whom Sarah bore to him—Isaac.",
+    "explanation": "God kept His promise to give Abraham and Sarah a son, even though they were very old."
+  },
+  {
+    "id": "ot-easy-013",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What special gift did Jacob (Israel) give his son Joseph?",
+    "choices": [
+      "A tunic of many colors",
+      "A golden ring",
+      "A flock of sheep",
+      "A silver cup"
+    ],
+    "answer": 0,
+    "reference": "Genesis 37:3",
+    "verse": "Now Israel loved Joseph more than all his children, because he was the son of his old age. Also he made him a tunic of many colors.",
+    "explanation": "The colorful tunic showed Jacob's favor toward Joseph, which made his brothers jealous."
+  },
+  {
+    "id": "ot-easy-014",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What happened to the walls of Jericho when the people shouted?",
+    "choices": [
+      "They fell down flat",
+      "They caught fire",
+      "They grew taller",
+      "They opened like a gate"
+    ],
+    "answer": 0,
+    "reference": "Joshua 6:20",
+    "verse": "So the people shouted when the priests blew the trumpets. And it happened when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat. Then the people went up into the city, every man straight before him, and they took the city.",
+    "explanation": "Israel obeyed God's unusual battle plan, and God brought the walls down."
+  },
+  {
+    "id": "ot-easy-015",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What would happen to Samson's strength if his head was shaved?",
+    "choices": [
+      "It would leave him",
+      "It would double",
+      "Nothing would change",
+      "It would move to his arms"
+    ],
+    "answer": 0,
+    "reference": "Judges 16:17",
+    "verse": "that he told her all his heart, and said to her, \"No razor has ever come upon my head, for I have been a Nazirite to God from my mother's womb. If I am shaven, then my strength will leave me, and I shall become weak, and be like any other man.\"",
+    "explanation": "Samson's uncut hair was a sign of his Nazirite vow to God, the true source of his strength."
+  },
+  {
+    "id": "ot-medium-001",
+    "testament": "OT",
+    "level": "medium",
+    "question": "Who did God say would speak for Moses because he could speak well?",
+    "choices": [
+      "Aaron",
+      "Joshua",
+      "Caleb",
+      "Jethro"
+    ],
+    "answer": 0,
+    "reference": "Exodus 4:14",
+    "verse": "So the anger of the LORD was kindled against Moses, and He said: \"Is not Aaron the Levite your brother? I know that he can speak well. And look, he is also coming out to meet you. When he sees you, he will be glad in his heart.\"",
+    "explanation": "Moses felt unable to speak to Pharaoh, so God gave him his brother Aaron as a helper."
+  },
+  {
+    "id": "ot-medium-002",
+    "testament": "OT",
+    "level": "medium",
+    "question": "Who said, \"Your people shall be my people, and your God, my God\"?",
+    "choices": [
+      "Ruth",
+      "Esther",
+      "Naomi",
+      "Hannah"
+    ],
+    "answer": 0,
+    "reference": "Ruth 1:16",
+    "verse": "But Ruth said: \"Entreat me not to leave you, Or to turn back from following after you; For wherever you go, I will go; And wherever you lodge, I will lodge; Your people shall be my people, And your God, my God.\"",
+    "explanation": "Ruth stayed loyal to her mother-in-law Naomi and chose to follow the God of Israel."
+  },
+  {
+    "id": "ot-medium-003",
+    "testament": "OT",
+    "level": "medium",
+    "question": "What was unusual about the burning bush Moses saw?",
+    "choices": [
+      "It was not consumed by the fire",
+      "It spoke in Pharaoh's voice",
+      "It was made of gold",
+      "It burned underwater"
+    ],
+    "answer": 0,
+    "reference": "Exodus 3:2",
+    "verse": "And the Angel of the LORD appeared to him in a flame of fire from the midst of a bush. So he looked, and behold, the bush was burning with fire, but the bush was not consumed.",
+    "explanation": "God got Moses' attention with this miracle and then called him to lead Israel out of Egypt."
+  },
+  {
+    "id": "ot-medium-004",
+    "testament": "OT",
+    "level": "medium",
+    "question": "What did King Solomon ask God for?",
+    "choices": [
+      "An understanding heart to judge the people",
+      "Great riches",
+      "Victory over his enemies",
+      "A long life"
+    ],
+    "answer": 0,
+    "reference": "1 Kings 3:9",
+    "verse": "Therefore give to Your servant an understanding heart to judge Your people, that I may discern between good and evil. For who is able to judge this great people of Yours?",
+    "explanation": "God was pleased that Solomon asked for wisdom, and gave him riches and honor as well."
+  },
+  {
+    "id": "ot-medium-005",
+    "testament": "OT",
+    "level": "medium",
+    "question": "How was Elijah taken up into heaven?",
+    "choices": [
+      "By a whirlwind, with a chariot of fire",
+      "On the back of an eagle",
+      "Up a ladder of angels",
+      "In a cloud on a mountain"
+    ],
+    "answer": 0,
+    "reference": "2 Kings 2:11",
+    "verse": "Then it happened, as they continued on and talked, that suddenly a chariot of fire appeared with horses of fire, and separated the two of them; and Elijah went up by a whirlwind into heaven.",
+    "explanation": "Elijah did not die but was taken to heaven while his helper Elisha watched."
+  },
+  {
+    "id": "ot-medium-006",
+    "testament": "OT",
+    "level": "medium",
+    "question": "How many men did King Nebuchadnezzar see walking in the fiery furnace?",
+    "choices": [
+      "Four",
+      "Three",
+      "Two",
+      "Seven"
+    ],
+    "answer": 0,
+    "reference": "Daniel 3:25",
+    "verse": "\"Look!\" he answered, \"I see four men loose, walking in the midst of the fire; and they are not hurt, and the form of the fourth is like the Son of God.\"",
+    "explanation": "Shadrach, Meshach and Abed-Nego refused to bow to an idol, and God was with them in the fire."
+  },
+  {
+    "id": "ot-medium-007",
+    "testament": "OT",
+    "level": "medium",
+    "question": "Finish the verse: \"Trust in the LORD with all your heart, and lean not on your own ___.\"",
+    "choices": [
+      "understanding",
+      "strength",
+      "wisdom",
+      "works"
+    ],
+    "answer": 0,
+    "reference": "Proverbs 3:5",
+    "verse": "Trust in the LORD with all your heart, And lean not on your own understanding;",
+    "explanation": "This proverb teaches us to depend on God's wisdom more than our own."
+  },
+  {
+    "id": "ot-medium-008",
+    "testament": "OT",
+    "level": "medium",
+    "question": "Who was told she may have come to the kingdom \"for such a time as this\"?",
+    "choices": [
+      "Esther",
+      "Ruth",
+      "Deborah",
+      "Miriam"
+    ],
+    "answer": 0,
+    "reference": "Esther 4:14",
+    "verse": "For if you remain completely silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father's house will perish. Yet who knows whether you have come to the kingdom for such a time as this?",
+    "explanation": "Mordecai encouraged Queen Esther to bravely speak to the king to save her people."
+  },
+  {
+    "id": "ot-medium-009",
+    "testament": "OT",
+    "level": "medium",
+    "question": "What new name did God give Jacob?",
+    "choices": [
+      "Israel",
+      "Abraham",
+      "Judah",
+      "Benjamin"
+    ],
+    "answer": 0,
+    "reference": "Genesis 32:28",
+    "verse": "And He said, \"Your name shall no longer be called Jacob, but Israel; for you have struggled with God and with men, and have prevailed.\"",
+    "explanation": "After wrestling all night, Jacob received a new name, which became the name of the whole nation."
+  },
+  {
+    "id": "ot-medium-010",
+    "testament": "OT",
+    "level": "medium",
+    "question": "What did the Israelites call the bread God sent from heaven in the wilderness?",
+    "choices": [
+      "Manna",
+      "Quail",
+      "Matzah",
+      "Shewbread"
+    ],
+    "answer": 0,
+    "reference": "Exodus 16:31",
+    "verse": "And the house of Israel called its name Manna. And it was like white coriander seed, and the taste of it was like wafers made with honey.",
+    "explanation": "God fed His people every day for forty years in the desert."
+  },
+  {
+    "id": "ot-medium-011",
+    "testament": "OT",
+    "level": "medium",
+    "question": "In Isaiah 53:6, what animal are we compared to for going astray?",
+    "choices": [
+      "Sheep",
+      "Goats",
+      "Birds",
+      "Camels"
+    ],
+    "answer": 0,
+    "reference": "Isaiah 53:6",
+    "verse": "All we like sheep have gone astray; We have turned, every one, to his own way; And the LORD has laid on Him the iniquity of us all.",
+    "explanation": "Isaiah foretold that God would place our sins on His Servant, fulfilled in Jesus."
+  },
+  {
+    "id": "ot-medium-012",
+    "testament": "OT",
+    "level": "medium",
+    "question": "What did Gideon put on the threshing floor to test God's promise?",
+    "choices": [
+      "A fleece of wool",
+      "A clay jar",
+      "A trumpet",
+      "A loaf of bread"
+    ],
+    "answer": 0,
+    "reference": "Judges 6:37",
+    "verse": "look, I shall put a fleece of wool on the threshing floor; if there is dew on the fleece only, and it is dry on all the ground, then I shall know that You will save Israel by my hand, as You have said.",
+    "explanation": "God patiently answered Gideon's request and gave him confidence to lead Israel."
+  },
+  {
+    "id": "ot-medium-013",
+    "testament": "OT",
+    "level": "medium",
+    "question": "What did young Samuel answer when God called him?",
+    "choices": [
+      "\"Speak, for Your servant hears.\"",
+      "\"Here I am, send me.\"",
+      "\"Who are You, Lord?\"",
+      "\"I am too young.\""
+    ],
+    "answer": 0,
+    "reference": "1 Samuel 3:10",
+    "verse": "Now the LORD came and stood and called as at other times, \"Samuel! Samuel!\" And Samuel answered, \"Speak, for Your servant hears.\"",
+    "explanation": "Samuel learned to recognize God's voice and grew up to be a great prophet."
+  },
+  {
+    "id": "ot-medium-014",
+    "testament": "OT",
+    "level": "medium",
+    "question": "Finish the verse: \"Be strong and of good courage; do not be afraid... for the LORD your God is with you ___.\"",
+    "choices": [
+      "wherever you go",
+      "in the temple",
+      "when you pray",
+      "in the morning"
+    ],
+    "answer": 0,
+    "reference": "Joshua 1:9",
+    "verse": "Have I not commanded you? Be strong and of good courage; do not be afraid, nor be dismayed, for the LORD your God is with you wherever you go.",
+    "explanation": "God encouraged Joshua as he took over leading Israel after Moses."
+  },
+  {
+    "id": "ot-medium-015",
+    "testament": "OT",
+    "level": "medium",
+    "question": "What did Hannah name the son God gave her after she prayed?",
+    "choices": [
+      "Samuel",
+      "Samson",
+      "Saul",
+      "Solomon"
+    ],
+    "answer": 0,
+    "reference": "1 Samuel 1:20",
+    "verse": "So it came to pass in the process of time that Hannah conceived and bore a son, and called his name Samuel, saying, \"Because I have asked for him from the LORD.\"",
+    "explanation": "Hannah prayed for a child, and God answered. She dedicated Samuel to serve the Lord."
+  },
+  {
+    "id": "ot-hard-001",
+    "testament": "OT",
+    "level": "hard",
+    "question": "According to Micah 6:8, what does the LORD require?",
+    "choices": [
+      "To do justly, love mercy, and walk humbly with God",
+      "To offer a thousand rams",
+      "To keep every feast perfectly",
+      "To build a great temple"
+    ],
+    "answer": 0,
+    "reference": "Micah 6:8",
+    "verse": "He has shown you, O man, what is good; And what does the LORD require of you But to do justly, To love mercy, And to walk humbly with your God?",
+    "explanation": "God cares more about a faithful heart and how we treat others than about outward rituals."
+  },
+  {
+    "id": "ot-hard-002",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Which town did Micah prophesy would be the birthplace of Israel's Ruler?",
+    "choices": [
+      "Bethlehem",
+      "Nazareth",
+      "Jerusalem",
+      "Hebron"
+    ],
+    "answer": 0,
+    "reference": "Micah 5:2",
+    "verse": "But you, Bethlehem Ephrathah, Though you are little among the thousands of Judah, Yet out of you shall come forth to Me The One to be Ruler in Israel, Whose goings forth are from of old, From everlasting.",
+    "explanation": "Hundreds of years before Jesus was born, Micah named the small town where He would be born."
+  },
+  {
+    "id": "ot-hard-003",
+    "testament": "OT",
+    "level": "hard",
+    "question": "How old was Methuselah when he died?",
+    "choices": [
+      "969",
+      "930",
+      "777",
+      "950"
+    ],
+    "answer": 0,
+    "reference": "Genesis 5:27",
+    "verse": "So all the days of Methuselah were nine hundred and sixty-nine years; and he died.",
+    "explanation": "Methuselah is the oldest person recorded in the Bible."
+  },
+  {
+    "id": "ot-hard-004",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Which man \"walked with God; and he was not, for God took him\"?",
+    "choices": [
+      "Enoch",
+      "Noah",
+      "Elijah",
+      "Seth"
+    ],
+    "answer": 0,
+    "reference": "Genesis 5:24",
+    "verse": "And Enoch walked with God; and he was not, for God took him.",
+    "explanation": "Enoch had such a close relationship with God that God took him without his dying."
+  },
+  {
+    "id": "ot-hard-005",
+    "testament": "OT",
+    "level": "hard",
+    "question": "How many days did it take to rebuild Jerusalem's wall under Nehemiah?",
+    "choices": [
+      "52",
+      "40",
+      "70",
+      "120"
+    ],
+    "answer": 0,
+    "reference": "Nehemiah 6:15",
+    "verse": "So the wall was finished on the twenty-fifth day of Elul, in fifty-two days.",
+    "explanation": "Despite opposition, the people worked together and God helped them finish quickly."
+  },
+  {
+    "id": "ot-hard-006",
+    "testament": "OT",
+    "level": "hard",
+    "question": "In Isaiah 7:14, what name would the virgin's Son be called?",
+    "choices": [
+      "Immanuel",
+      "Wonderful",
+      "Messiah",
+      "Branch"
+    ],
+    "answer": 0,
+    "reference": "Isaiah 7:14",
+    "verse": "Therefore the Lord Himself will give you a sign: Behold, the virgin shall conceive and bear a Son, and shall call His name Immanuel.",
+    "explanation": "Immanuel means \"God with us,\" and Matthew tells us this was fulfilled in Jesus."
+  },
+  {
+    "id": "ot-hard-007",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Whose donkey spoke to him?",
+    "choices": [
+      "Balaam",
+      "Balak",
+      "Abraham",
+      "Saul"
+    ],
+    "answer": 0,
+    "reference": "Numbers 22:28",
+    "verse": "Then the LORD opened the mouth of the donkey, and she said to Balaam, \"What have I done to you, that you have struck me these three times?\"",
+    "explanation": "God used a talking donkey to stop Balaam, who was heading off to curse Israel."
+  },
+  {
+    "id": "ot-hard-008",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Which prophet wrote, \"For I know the thoughts that I think toward you... to give you a future and a hope\"?",
+    "choices": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "answer": 0,
+    "reference": "Jeremiah 29:11",
+    "verse": "For I know the thoughts that I think toward you, says the LORD, thoughts of peace and not of evil, to give you a future and a hope.",
+    "explanation": "Jeremiah wrote this to Israelites in exile in Babylon, reminding them God had good plans for them."
+  },
+  {
+    "id": "ot-hard-009",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Which prophet wrote, \"the just shall live by his faith\"?",
+    "choices": [
+      "Habakkuk",
+      "Hosea",
+      "Amos",
+      "Malachi"
+    ],
+    "answer": 0,
+    "reference": "Habakkuk 2:4",
+    "verse": "Behold the proud, His soul is not upright in him; But the just shall live by his faith.",
+    "explanation": "This verse is quoted three times in the New Testament to explain that we are saved through faith."
+  },
+  {
+    "id": "ot-hard-010",
+    "testament": "OT",
+    "level": "hard",
+    "question": "What happened to Lot's wife when she looked back at Sodom?",
+    "choices": [
+      "She became a pillar of salt",
+      "She went blind",
+      "She turned to stone",
+      "She was carried off by angels"
+    ],
+    "answer": 0,
+    "reference": "Genesis 19:26",
+    "verse": "But his wife looked back behind him, and she became a pillar of salt.",
+    "explanation": "The angels told Lot's family not to look back, and her disobedience cost her life."
+  },
+  {
+    "id": "ot-hard-011",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Which prophet was told to preach to a valley of dry bones?",
+    "choices": [
+      "Ezekiel",
+      "Elijah",
+      "Jeremiah",
+      "Jonah"
+    ],
+    "answer": 0,
+    "reference": "Ezekiel 37:4",
+    "verse": "Again He said to me, \"Prophesy to these bones, and say to them, 'O dry bones, hear the word of the LORD!'\"",
+    "explanation": "The bones coming to life pictured God restoring the nation of Israel."
+  },
+  {
+    "id": "ot-hard-012",
+    "testament": "OT",
+    "level": "hard",
+    "question": "How old was Josiah when he became king?",
+    "choices": [
+      "Eight",
+      "Twelve",
+      "Sixteen",
+      "Twenty"
+    ],
+    "answer": 0,
+    "reference": "2 Kings 22:1",
+    "verse": "Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem. His mother's name was Jedidah the daughter of Adaiah of Bozkath.",
+    "explanation": "Josiah became one of Judah's most faithful kings, leading the people back to God's law."
+  },
+  {
+    "id": "ot-hard-013",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Who was king of Salem and priest of God Most High in Abraham's day?",
+    "choices": [
+      "Melchizedek",
+      "Abimelech",
+      "Jethro",
+      "Pharaoh"
+    ],
+    "answer": 0,
+    "reference": "Genesis 14:18",
+    "verse": "Then Melchizedek king of Salem brought out bread and wine; he was the priest of God Most High.",
+    "explanation": "The book of Hebrews compares Jesus to Melchizedek as our eternal priest."
+  },
+  {
+    "id": "ot-hard-014",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Whom did God tell the prophet Hosea to marry?",
+    "choices": [
+      "Gomer",
+      "Rahab",
+      "Abigail",
+      "Zipporah"
+    ],
+    "answer": 0,
+    "reference": "Hosea 1:3",
+    "verse": "So he went and took Gomer the daughter of Diblaim, and she conceived and bore him a son.",
+    "explanation": "Hosea's marriage to an unfaithful wife pictured God's faithful love for unfaithful Israel."
+  },
+  {
+    "id": "ot-hard-015",
+    "testament": "OT",
+    "level": "hard",
+    "question": "Which book contains \"Hear, O Israel: The LORD our God, the LORD is one!\"?",
+    "choices": [
+      "Deuteronomy",
+      "Leviticus",
+      "Numbers",
+      "Exodus"
+    ],
+    "answer": 0,
+    "reference": "Deuteronomy 6:4",
+    "verse": "Hear, O Israel: The LORD our God, the LORD is one!",
+    "explanation": "Called the Shema, this is one of the most important statements of faith in Israel; Jesus quoted it as part of the greatest commandment."
+  },
+  {
     "id": "nt-easy-001",
     "testament": "NT",
     "level": "easy",
     "question": "According to John 3:16, why did God give His only begotten Son?",
-    "choices": ["Because He so loved the world", "To build a temple", "To become a king", "To teach the Pharisees"],
+    "choices": [
+      "Because He so loved the world",
+      "To build a temple",
+      "To become a king",
+      "To teach the Pharisees"
+    ],
     "answer": 0,
     "reference": "John 3:16",
     "verse": "For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
     "explanation": "This verse sums up the gospel: God's love moved Him to send Jesus so that everyone who believes can have eternal life."
+  },
+  {
+    "id": "nt-easy-002",
+    "testament": "NT",
+    "level": "easy",
+    "question": "In what town was Jesus born?",
+    "choices": [
+      "Bethlehem",
+      "Nazareth",
+      "Jerusalem",
+      "Capernaum"
+    ],
+    "answer": 0,
+    "reference": "Matthew 2:1",
+    "verse": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem,",
+    "explanation": "Jesus was born in Bethlehem, the town of King David, just as the prophet Micah had foretold."
+  },
+  {
+    "id": "nt-easy-003",
+    "testament": "NT",
+    "level": "easy",
+    "question": "What name did the angel tell Mary to give her Son?",
+    "choices": [
+      "Jesus",
+      "John",
+      "Joseph",
+      "Emmanuel"
+    ],
+    "answer": 0,
+    "reference": "Luke 1:31",
+    "verse": "And behold, you will conceive in your womb and bring forth a Son, and shall call His name JESUS.",
+    "explanation": "The name Jesus means \"the LORD saves.\""
+  },
+  {
+    "id": "nt-easy-004",
+    "testament": "NT",
+    "level": "easy",
+    "question": "Where did Mary lay baby Jesus?",
+    "choices": [
+      "In a manger",
+      "In a cradle",
+      "In a basket",
+      "In a tent"
+    ],
+    "answer": 0,
+    "reference": "Luke 2:7",
+    "verse": "And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in a manger, because there was no room for them in the inn.",
+    "explanation": "The Son of God was born in a humble place, with an animal feeding trough for a bed."
+  },
+  {
+    "id": "nt-easy-005",
+    "testament": "NT",
+    "level": "easy",
+    "question": "How many disciples did Jesus choose?",
+    "choices": [
+      "Twelve",
+      "Seven",
+      "Ten",
+      "Seventy"
+    ],
+    "answer": 0,
+    "reference": "Matthew 10:1",
+    "verse": "And when He had called His twelve disciples to Him, He gave them power over unclean spirits, to cast them out, and to heal all kinds of sickness and all kinds of disease.",
+    "explanation": "Jesus chose twelve men to follow Him, learn from Him, and carry on His work."
+  },
+  {
+    "id": "nt-easy-006",
+    "testament": "NT",
+    "level": "easy",
+    "question": "What food did the disciples have before Jesus fed the 5,000?",
+    "choices": [
+      "Five loaves and two fish",
+      "Seven loaves and three fish",
+      "Two loaves and five fish",
+      "Twelve baskets of bread"
+    ],
+    "answer": 0,
+    "reference": "Matthew 14:17",
+    "verse": "And they said to Him, \"We have here only five loaves and two fish.\"",
+    "explanation": "Jesus blessed this small meal and fed thousands, with twelve baskets left over."
+  },
+  {
+    "id": "nt-easy-007",
+    "testament": "NT",
+    "level": "easy",
+    "question": "How did Jesus go out to the disciples' boat in the storm?",
+    "choices": [
+      "Walking on the sea",
+      "Riding a donkey",
+      "In another boat",
+      "Swimming"
+    ],
+    "answer": 0,
+    "reference": "Matthew 14:25",
+    "verse": "Now in the fourth watch of the night Jesus went to them, walking on the sea.",
+    "explanation": "Jesus showed His power over nature and told His frightened disciples, \"Be of good cheer! It is I.\""
+  },
+  {
+    "id": "nt-easy-008",
+    "testament": "NT",
+    "level": "easy",
+    "question": "Who baptized Jesus in the Jordan River?",
+    "choices": [
+      "John the Baptist",
+      "Peter",
+      "Andrew",
+      "Elijah"
+    ],
+    "answer": 0,
+    "reference": "Matthew 3:13",
+    "verse": "Then Jesus came from Galilee to John at the Jordan to be baptized by him.",
+    "explanation": "When Jesus was baptized, the Spirit came down like a dove and the Father spoke from heaven."
+  },
+  {
+    "id": "nt-easy-009",
+    "testament": "NT",
+    "level": "easy",
+    "question": "What did the angel tell the women at Jesus' empty tomb?",
+    "choices": [
+      "\"He is not here; for He is risen\"",
+      "\"He has gone to Galilee to hide\"",
+      "\"His body was moved\"",
+      "\"Come back tomorrow\""
+    ],
+    "answer": 0,
+    "reference": "Matthew 28:6",
+    "verse": "He is not here; for He is risen, as He said. Come, see the place where the Lord lay.",
+    "explanation": "Jesus rose from the dead on the third day, just as He had promised."
+  },
+  {
+    "id": "nt-easy-010",
+    "testament": "NT",
+    "level": "easy",
+    "question": "What did Jesus turn water into at the wedding in Cana?",
+    "choices": [
+      "Wine",
+      "Milk",
+      "Oil",
+      "Honey"
+    ],
+    "answer": 0,
+    "reference": "John 2:9",
+    "verse": "When the master of the feast had tasted the water that was made wine, and did not know where it came from (but the servants who had drawn the water knew), the master of the feast called the bridegroom.",
+    "explanation": "This was the first of Jesus' miraculous signs, showing His glory to His disciples."
+  },
+  {
+    "id": "nt-easy-011",
+    "testament": "NT",
+    "level": "easy",
+    "question": "What did Zacchaeus climb so he could see Jesus?",
+    "choices": [
+      "A sycamore tree",
+      "A wall",
+      "A rooftop",
+      "A hill"
+    ],
+    "answer": 0,
+    "reference": "Luke 19:4",
+    "verse": "So he ran ahead and climbed up into a sycamore tree to see Him, for He was going to pass that way.",
+    "explanation": "Zacchaeus was short, but Jesus noticed him, went to his house, and changed his life."
+  },
+  {
+    "id": "nt-easy-012",
+    "testament": "NT",
+    "level": "easy",
+    "question": "How many times did Jesus say Peter would deny Him before the rooster crowed?",
+    "choices": [
+      "Three",
+      "Two",
+      "Seven",
+      "Once"
+    ],
+    "answer": 0,
+    "reference": "Matthew 26:75",
+    "verse": "And Peter remembered the word of Jesus who had said to him, \"Before the rooster crows, you will deny Me three times.\" So he went out and wept bitterly.",
+    "explanation": "Peter failed, but after the resurrection Jesus lovingly restored him."
+  },
+  {
+    "id": "nt-easy-013",
+    "testament": "NT",
+    "level": "easy",
+    "question": "Finish the Golden Rule: \"Whatever you want men to do to you, ___.\"",
+    "choices": [
+      "do also to them",
+      "expect it back",
+      "pray for it",
+      "keep it secret"
+    ],
+    "answer": 0,
+    "reference": "Matthew 7:12",
+    "verse": "Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets.",
+    "explanation": "Jesus taught that we should treat others the way we want to be treated."
+  },
+  {
+    "id": "nt-easy-014",
+    "testament": "NT",
+    "level": "easy",
+    "question": "How does the Lord's Prayer begin?",
+    "choices": [
+      "\"Our Father in heaven\"",
+      "\"Lord, have mercy\"",
+      "\"Blessed are the poor\"",
+      "\"The Lord is my shepherd\""
+    ],
+    "answer": 0,
+    "reference": "Matthew 6:9",
+    "verse": "In this manner, therefore, pray: Our Father in heaven, Hallowed be Your name.",
+    "explanation": "Jesus taught His disciples to pray to God as their loving Father."
+  },
+  {
+    "id": "nt-easy-015",
+    "testament": "NT",
+    "level": "easy",
+    "question": "What did Jesus say when the disciples tried to keep children away?",
+    "choices": [
+      "\"Let the little children come to Me\"",
+      "\"Send them home\"",
+      "\"Wait until they are older\"",
+      "\"Only the oldest may come\""
+    ],
+    "answer": 0,
+    "reference": "Mark 10:14",
+    "verse": "But when Jesus saw it, He was greatly displeased and said to them, \"Let the little children come to Me, and do not forbid them; for of such is the kingdom of God.\"",
+    "explanation": "Jesus welcomed children and said we must receive God's kingdom with childlike trust."
+  },
+  {
+    "id": "nt-medium-001",
+    "testament": "NT",
+    "level": "medium",
+    "question": "Which angel was sent to Mary in Nazareth?",
+    "choices": [
+      "Gabriel",
+      "Michael",
+      "Raphael",
+      "Uriel"
+    ],
+    "answer": 0,
+    "reference": "Luke 1:26",
+    "verse": "Now in the sixth month the angel Gabriel was sent by God to a city of Galilee named Nazareth,",
+    "explanation": "Gabriel announced that Mary would be the mother of Jesus. He had also visited Zacharias about John's birth."
+  },
+  {
+    "id": "nt-medium-002",
+    "testament": "NT",
+    "level": "medium",
+    "question": "Where was Saul going when a light from heaven shone around him?",
+    "choices": [
+      "Damascus",
+      "Jerusalem",
+      "Rome",
+      "Antioch"
+    ],
+    "answer": 0,
+    "reference": "Acts 9:3",
+    "verse": "As he journeyed he came near Damascus, and suddenly a light shone around him from heaven.",
+    "explanation": "Saul was on his way to arrest Christians when Jesus met him. He became the apostle Paul."
+  },
+  {
+    "id": "nt-medium-003",
+    "testament": "NT",
+    "level": "medium",
+    "question": "Which is the first fruit of the Spirit listed in Galatians 5:22?",
+    "choices": [
+      "Love",
+      "Joy",
+      "Peace",
+      "Patience"
+    ],
+    "answer": 0,
+    "reference": "Galatians 5:22-23",
+    "verse": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control. Against such there is no law.",
+    "explanation": "These qualities grow in our lives as the Holy Spirit works in us."
+  },
+  {
+    "id": "nt-medium-004",
+    "testament": "NT",
+    "level": "medium",
+    "question": "Whom did Jesus call out of the tomb, alive again?",
+    "choices": [
+      "Lazarus",
+      "Jairus",
+      "Nicodemus",
+      "Bartimaeus"
+    ],
+    "answer": 0,
+    "reference": "John 11:43",
+    "verse": "Now when He had said these things, He cried with a loud voice, \"Lazarus, come forth!\"",
+    "explanation": "Lazarus had been dead four days, and Jesus raised him to show He is the resurrection and the life."
+  },
+  {
+    "id": "nt-medium-005",
+    "testament": "NT",
+    "level": "medium",
+    "question": "In Jesus' parable, who stopped to help the hurt traveler?",
+    "choices": [
+      "A Samaritan",
+      "A priest",
+      "A Levite",
+      "A Roman soldier"
+    ],
+    "answer": 0,
+    "reference": "Luke 10:33",
+    "verse": "But a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion.",
+    "explanation": "Jesus used the Good Samaritan to teach that our neighbor is anyone who needs our help."
+  },
+  {
+    "id": "nt-medium-006",
+    "testament": "NT",
+    "level": "medium",
+    "question": "How much was Judas paid to betray Jesus?",
+    "choices": [
+      "Thirty pieces of silver",
+      "Forty pieces of gold",
+      "Ten talents",
+      "One hundred denarii"
+    ],
+    "answer": 0,
+    "reference": "Matthew 26:15",
+    "verse": "and said, \"What are you willing to give me if I deliver Him to you?\" And they counted out to him thirty pieces of silver.",
+    "explanation": "This fulfilled a prophecy in Zechariah about the price paid for the Shepherd."
+  },
+  {
+    "id": "nt-medium-007",
+    "testament": "NT",
+    "level": "medium",
+    "question": "What happened when the disciples were filled with the Holy Spirit at Pentecost?",
+    "choices": [
+      "They spoke with other tongues",
+      "They saw Jesus return",
+      "The temple fell down",
+      "They fell asleep"
+    ],
+    "answer": 0,
+    "reference": "Acts 2:4",
+    "verse": "And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit gave them utterance.",
+    "explanation": "People from many nations heard the gospel in their own languages, and about 3,000 believed that day."
+  },
+  {
+    "id": "nt-medium-008",
+    "testament": "NT",
+    "level": "medium",
+    "question": "Finish Jesus' words: \"I am the way, the truth, and the ___.\"",
+    "choices": [
+      "life",
+      "light",
+      "door",
+      "vine"
+    ],
+    "answer": 0,
+    "reference": "John 14:6",
+    "verse": "Jesus said to him, \"I am the way, the truth, and the life. No one comes to the Father except through Me.\"",
+    "explanation": "Jesus said this to comfort His disciples: He is the only way to the Father."
+  },
+  {
+    "id": "nt-medium-009",
+    "testament": "NT",
+    "level": "medium",
+    "question": "In the parable of the prodigal son, what did the father do when he saw his son coming home?",
+    "choices": [
+      "Ran and kissed him",
+      "Locked the door",
+      "Sent a servant to scold him",
+      "Made him work in the fields first"
+    ],
+    "answer": 0,
+    "reference": "Luke 15:20",
+    "verse": "And he arose and came to his father. But when he was still a great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him.",
+    "explanation": "The father's welcome shows how God joyfully forgives those who come back to Him."
+  },
+  {
+    "id": "nt-medium-010",
+    "testament": "NT",
+    "level": "medium",
+    "question": "According to Romans 3:23, who has sinned?",
+    "choices": [
+      "All",
+      "Only the Gentiles",
+      "Only the Pharisees",
+      "Only adults"
+    ],
+    "answer": 0,
+    "reference": "Romans 3:23",
+    "verse": "for all have sinned and fall short of the glory of God,",
+    "explanation": "Everyone needs God's grace, which is why we all need Jesus."
+  },
+  {
+    "id": "nt-medium-011",
+    "testament": "NT",
+    "level": "medium",
+    "question": "What was Matthew's job when Jesus called him?",
+    "choices": [
+      "Tax collector",
+      "Fisherman",
+      "Carpenter",
+      "Tentmaker"
+    ],
+    "answer": 0,
+    "reference": "Matthew 9:9",
+    "verse": "As Jesus passed on from there, He saw a man named Matthew sitting at the tax office. And He said to him, \"Follow Me.\" So he arose and followed Him.",
+    "explanation": "Tax collectors were disliked, but Jesus called Matthew, who later wrote the Gospel of Matthew."
+  },
+  {
+    "id": "nt-medium-012",
+    "testament": "NT",
+    "level": "medium",
+    "question": "Which disciple was invited to touch Jesus' hands and side?",
+    "choices": [
+      "Thomas",
+      "Peter",
+      "John",
+      "Philip"
+    ],
+    "answer": 0,
+    "reference": "John 20:27",
+    "verse": "Then He said to Thomas, \"Reach your finger here, and look at My hands; and reach your hand here, and put it into My side. Do not be unbelieving, but believing.\"",
+    "explanation": "Thomas doubted the resurrection until he saw Jesus, then said, \"My Lord and my God!\""
+  },
+  {
+    "id": "nt-medium-013",
+    "testament": "NT",
+    "level": "medium",
+    "question": "According to 1 Corinthians 13:13, which is the greatest: faith, hope, or love?",
+    "choices": [
+      "Love",
+      "Faith",
+      "Hope",
+      "They are all equal"
+    ],
+    "answer": 0,
+    "reference": "1 Corinthians 13:13",
+    "verse": "And now abide faith, hope, love, these three; but the greatest of these is love.",
+    "explanation": "Paul's \"love chapter\" teaches that love is the most important gift of all."
+  },
+  {
+    "id": "nt-medium-014",
+    "testament": "NT",
+    "level": "medium",
+    "question": "Finish the verse: \"I can do all things through Christ who ___.\"",
+    "choices": [
+      "strengthens me",
+      "loves me",
+      "saves me",
+      "calls me"
+    ],
+    "answer": 0,
+    "reference": "Philippians 4:13",
+    "verse": "I can do all things through Christ who strengthens me.",
+    "explanation": "Paul wrote this from prison, saying Christ gave him strength in every situation, good or hard."
+  },
+  {
+    "id": "nt-medium-015",
+    "testament": "NT",
+    "level": "medium",
+    "question": "In the Great Commission, what did Jesus tell His disciples to do?",
+    "choices": [
+      "Make disciples of all the nations",
+      "Build churches in Jerusalem only",
+      "Wait in the upper room forever",
+      "Become rulers"
+    ],
+    "answer": 0,
+    "reference": "Matthew 28:19",
+    "verse": "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+    "explanation": "Before returning to heaven, Jesus sent His followers to share the gospel with the whole world."
+  },
+  {
+    "id": "nt-hard-001",
+    "testament": "NT",
+    "level": "hard",
+    "question": "What is the shortest verse in the English Bible?",
+    "choices": [
+      "\"Jesus wept.\"",
+      "\"Rejoice always.\"",
+      "\"Pray without ceasing.\"",
+      "\"God is love.\""
+    ],
+    "answer": 0,
+    "reference": "John 11:35",
+    "verse": "Jesus wept.",
+    "explanation": "Even knowing He would raise Lazarus, Jesus shared the grief of His friends."
+  },
+  {
+    "id": "nt-hard-002",
+    "testament": "NT",
+    "level": "hard",
+    "question": "Which book says, \"Now faith is the substance of things hoped for, the evidence of things not seen\"?",
+    "choices": [
+      "Hebrews",
+      "Romans",
+      "James",
+      "Galatians"
+    ],
+    "answer": 0,
+    "reference": "Hebrews 11:1",
+    "verse": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+    "explanation": "Hebrews 11 goes on to list many Old Testament heroes who lived by faith."
+  },
+  {
+    "id": "nt-hard-003",
+    "testament": "NT",
+    "level": "hard",
+    "question": "What were Paul and Silas doing in prison at midnight?",
+    "choices": [
+      "Praying and singing hymns",
+      "Digging a tunnel",
+      "Sleeping",
+      "Writing letters"
+    ],
+    "answer": 0,
+    "reference": "Acts 16:25",
+    "verse": "But at midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them.",
+    "explanation": "An earthquake opened the prison, and the jailer and his family came to believe in Jesus."
+  },
+  {
+    "id": "nt-hard-004",
+    "testament": "NT",
+    "level": "hard",
+    "question": "Who was the first Christian martyr, stoned while praying?",
+    "choices": [
+      "Stephen",
+      "James",
+      "Philip",
+      "Barnabas"
+    ],
+    "answer": 0,
+    "reference": "Acts 7:59",
+    "verse": "And they stoned Stephen as he was calling on God and saying, \"Lord Jesus, receive my spirit.\"",
+    "explanation": "Stephen forgave his attackers. Saul, the future apostle Paul, stood watching."
+  },
+  {
+    "id": "nt-hard-005",
+    "testament": "NT",
+    "level": "hard",
+    "question": "Which young man fell asleep and fell from a window during Paul's long sermon?",
+    "choices": [
+      "Eutychus",
+      "Timothy",
+      "Mark",
+      "Tychicus"
+    ],
+    "answer": 0,
+    "reference": "Acts 20:9",
+    "verse": "And in a window sat a certain young man named Eutychus, who was sinking into a deep sleep. He was overcome by sleep; and as Paul continued speaking, he fell down from the third story and was taken up dead.",
+    "explanation": "Paul went down, embraced him, and God brought Eutychus back to life."
+  },
+  {
+    "id": "nt-hard-006",
+    "testament": "NT",
+    "level": "hard",
+    "question": "According to Ephesians 2:8, how are we saved?",
+    "choices": [
+      "By grace through faith",
+      "By good works",
+      "By keeping the law",
+      "By being born into a good family"
+    ],
+    "answer": 0,
+    "reference": "Ephesians 2:8",
+    "verse": "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+    "explanation": "Salvation is a free gift from God, not something we earn."
+  },
+  {
+    "id": "nt-hard-007",
+    "testament": "NT",
+    "level": "hard",
+    "question": "In Revelation, Jesus says He is the Alpha and the Omega. What does that mean?",
+    "choices": [
+      "The Beginning and the End",
+      "The King and the Priest",
+      "The Light and the Life",
+      "The Lion and the Lamb"
+    ],
+    "answer": 0,
+    "reference": "Revelation 22:13",
+    "verse": "I am the Alpha and the Omega, the Beginning and the End, the First and the Last.",
+    "explanation": "Alpha and Omega are the first and last letters of the Greek alphabet."
+  },
+  {
+    "id": "nt-hard-008",
+    "testament": "NT",
+    "level": "hard",
+    "question": "On what island was John when he received the Revelation?",
+    "choices": [
+      "Patmos",
+      "Cyprus",
+      "Crete",
+      "Malta"
+    ],
+    "answer": 0,
+    "reference": "Revelation 1:9",
+    "verse": "I, John, both your brother and companion in the tribulation and kingdom and patience of Jesus Christ, was on the island that is called Patmos for the word of God and for the testimony of Jesus Christ.",
+    "explanation": "John had been exiled to Patmos for preaching about Jesus."
+  },
+  {
+    "id": "nt-hard-009",
+    "testament": "NT",
+    "level": "hard",
+    "question": "Who asked Jesus, \"How can a man be born when he is old?\"",
+    "choices": [
+      "Nicodemus",
+      "Zacchaeus",
+      "Pilate",
+      "Joseph of Arimathea"
+    ],
+    "answer": 0,
+    "reference": "John 3:4",
+    "verse": "Nicodemus said to Him, \"How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?\"",
+    "explanation": "Jesus explained to this Pharisee that being \"born again\" is a spiritual new birth from God."
+  },
+  {
+    "id": "nt-hard-010",
+    "testament": "NT",
+    "level": "hard",
+    "question": "Which apostle's name means \"Son of Encouragement\"?",
+    "choices": [
+      "Barnabas",
+      "Silas",
+      "Andrew",
+      "Thaddaeus"
+    ],
+    "answer": 0,
+    "reference": "Acts 4:36",
+    "verse": "And Joses, who was also named Barnabas by the apostles (which is translated Son of Encouragement), a Levite of the country of Cyprus,",
+    "explanation": "Barnabas lived up to his name, welcoming the new believer Paul and later traveling with him."
+  },
+  {
+    "id": "nt-hard-011",
+    "testament": "NT",
+    "level": "hard",
+    "question": "What did Lydia of Thyatira sell?",
+    "choices": [
+      "Purple cloth",
+      "Pottery",
+      "Spices",
+      "Tents"
+    ],
+    "answer": 0,
+    "reference": "Acts 16:14",
+    "verse": "Now a certain woman named Lydia heard us. She was a seller of purple from the city of Thyatira, who worshiped God. The Lord opened her heart to heed the things spoken by Paul.",
+    "explanation": "Lydia was one of the first believers in Europe and opened her home to Paul and his friends."
+  },
+  {
+    "id": "nt-hard-012",
+    "testament": "NT",
+    "level": "hard",
+    "question": "According to Romans 8:28, what works together for good to those who love God?",
+    "choices": [
+      "All things",
+      "Only good things",
+      "Only prayers",
+      "Only good works"
+    ],
+    "answer": 0,
+    "reference": "Romans 8:28",
+    "verse": "And we know that all things work together for good to those who love God, to those who are the called according to His purpose.",
+    "explanation": "God can use every circumstance, even hard ones, for the good of His people."
+  },
+  {
+    "id": "nt-hard-013",
+    "testament": "NT",
+    "level": "hard",
+    "question": "Which prophet was the Ethiopian official reading when Philip met him?",
+    "choices": [
+      "Isaiah",
+      "Jeremiah",
+      "Daniel",
+      "Malachi"
+    ],
+    "answer": 0,
+    "reference": "Acts 8:30",
+    "verse": "So Philip ran to him, and heard him reading the prophet Isaiah, and said, \"Do you understand what you are reading?\"",
+    "explanation": "Philip explained that Isaiah was speaking about Jesus, and the official was baptized."
+  },
+  {
+    "id": "nt-hard-014",
+    "testament": "NT",
+    "level": "hard",
+    "question": "Who was chosen to replace Judas as one of the twelve apostles?",
+    "choices": [
+      "Matthias",
+      "Paul",
+      "Barnabas",
+      "Joseph called Justus"
+    ],
+    "answer": 0,
+    "reference": "Acts 1:26",
+    "verse": "And they cast their lots, and the lot fell on Matthias. And he was numbered with the eleven apostles.",
+    "explanation": "The apostles prayed and chose Matthias, who had followed Jesus since His baptism."
+  },
+  {
+    "id": "nt-hard-015",
+    "testament": "NT",
+    "level": "hard",
+    "question": "According to 2 Timothy 3:16, how is all Scripture given?",
+    "choices": [
+      "By inspiration of God",
+      "By the will of men",
+      "Through ancient legends",
+      "By the Roman emperor"
+    ],
+    "answer": 0,
+    "reference": "2 Timothy 3:16",
+    "verse": "All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
+    "explanation": "The Bible is God-breathed and useful for teaching us how to live."
   }
 ]
