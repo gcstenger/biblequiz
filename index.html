@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Bible Quiz</title>
+  <meta name="description" content="A family Bible quiz with easy, medium and hard levels.">
+  <meta name="theme-color" content="#2f5d50">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <h1>Bible Quiz</h1>
+  </header>
+
+  <main id="app">
+    <!-- Home: pick a player, a testament and a level -->
+    <section id="screen-home" class="screen">
+      <label class="field">
+        <span>Who's playing?</span>
+        <input id="player-name" type="text" autocomplete="off" placeholder="Your name" maxlength="30">
+      </label>
+
+      <fieldset class="choice-group">
+        <legend>Testament</legend>
+        <label><input type="radio" name="testament" value="OT"> Old Testament</label>
+        <label><input type="radio" name="testament" value="NT"> New Testament</label>
+        <label><input type="radio" name="testament" value="ALL" checked> Both</label>
+      </fieldset>
+
+      <fieldset class="choice-group">
+        <legend>Level</legend>
+        <label><input type="radio" name="level" value="easy" checked> Easy</label>
+        <label><input type="radio" name="level" value="medium"> Medium</label>
+        <label><input type="radio" name="level" value="hard"> Hard</label>
+      </fieldset>
+
+      <button id="start-btn" class="primary">Start quiz</button>
+    </section>
+
+    <!-- Quiz: one question at a time -->
+    <section id="screen-quiz" class="screen" hidden>
+      <p class="progress" id="quiz-progress"></p>
+      <h2 id="question-text"></h2>
+      <div id="answers" class="answers"></div>
+      <div id="feedback" class="feedback" hidden>
+        <p id="feedback-result" class="result"></p>
+        <blockquote id="feedback-verse"></blockquote>
+        <p id="feedback-ref" class="ref"></p>
+        <p id="feedback-explanation"></p>
+        <button id="next-btn" class="primary">Next</button>
+      </div>
+    </section>
+
+    <!-- Results -->
+    <section id="screen-results" class="screen" hidden>
+      <h2>Quiz complete</h2>
+      <p id="results-score" class="big-score"></p>
+      <button id="home-btn" class="primary">Play again</button>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
