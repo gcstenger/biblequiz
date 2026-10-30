@@ -18,6 +18,13 @@ store app with a tool like Capacitor without rewriting it.
 | `data/questions.json` | The question bank |
 | `manifest.webmanifest`, `service-worker.js`, `icons/` | Phone install and offline support |
 
+## Scores
+
+Each family member types their name (or taps it once they've played). After every quiz
+the app saves their best score for each testament and level, plus how many quizzes they've
+played and what share of answers they got right. Scores are stored on the device in the
+browser, so each phone or computer keeps its own scoreboard.
+
 ## Question format
 
 Each entry in `data/questions.json` looks like this:

@@ -119,3 +119,15 @@ blockquote {
   font-size: 0.75rem;
   text-align: center;
 }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: -8px; }
+.chips button { padding: 6px 14px; border-radius: 999px; font-size: 0.9rem; }
+.chips button.active { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+
+.best { text-align: center; color: var(--accent); font-weight: 600; margin: 0; min-height: 1.5em; }
+.board h2, .board h3 { margin: 8px 0; font-size: 1.1rem; }
+.board table { width: 100%; border-collapse: collapse; background: var(--surface); border-radius: 10px; overflow: hidden; }
+.board th, .board td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border); }
+.board th { color: var(--muted); font-weight: 600; font-size: 0.85rem; }
+.board tr:last-child td { border-bottom: none; }
+.board td:not(:first-child), .board th:not(:first-child) { text-align: right; }

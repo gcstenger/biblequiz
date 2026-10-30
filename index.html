@@ -23,6 +23,7 @@
         <span>Who's playing?</span>
         <input id="player-name" type="text" autocomplete="off" placeholder="Your name" maxlength="30">
       </label>
+      <div id="player-chips" class="chips"></div>
 
       <fieldset class="choice-group">
         <legend>Testament</legend>
@@ -39,6 +40,14 @@
       </fieldset>
 
       <button id="start-btn" class="primary">Start quiz</button>
+
+      <section id="family-board" class="board" hidden>
+        <h2>Family scores</h2>
+        <table>
+          <thead><tr><th>Player</th><th>Quizzes</th><th>Correct</th></tr></thead>
+          <tbody id="family-rows"></tbody>
+        </table>
+      </section>
     </section>
 
     <!-- Quiz: one question at a time -->
@@ -59,6 +68,14 @@
     <section id="screen-results" class="screen" hidden>
       <h2>Quiz complete</h2>
       <p id="results-score" class="big-score"></p>
+      <p id="results-best" class="best"></p>
+      <section class="board">
+        <h3 id="board-title"></h3>
+        <table>
+          <thead><tr><th>Player</th><th>Best score</th></tr></thead>
+          <tbody id="board-rows"></tbody>
+        </table>
+      </section>
       <button id="home-btn" class="primary">Play again</button>
     </section>
   </main>
