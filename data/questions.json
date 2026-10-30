@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ot-easy-001",
+    "testament": "OT",
+    "level": "easy",
+    "question": "What did God create in the beginning?",
+    "choices": ["The heavens and the earth", "The Garden of Eden", "Adam and Eve", "The sun and the moon"],
+    "answer": 0,
+    "reference": "Genesis 1:1",
+    "verse": "In the beginning God created the heavens and the earth.",
+    "explanation": "The very first verse of the Bible tells us that God is the Creator of everything that exists."
+  },
+  {
+    "id": "nt-easy-001",
+    "testament": "NT",
+    "level": "easy",
+    "question": "According to John 3:16, why did God give His only begotten Son?",
+    "choices": ["Because He so loved the world", "To build a temple", "To become a king", "To teach the Pharisees"],
+    "answer": 0,
+    "reference": "John 3:16",
+    "verse": "For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
+    "explanation": "This verse sums up the gospel: God's love moved Him to send Jesus so that everyone who believes can have eternal life."
+  }
+]
