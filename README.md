@@ -1,6 +1,6 @@
 # Bible Quiz
 
-A family Bible quiz with easy, medium and hard levels for the Old and New Testament.
+A family Bible quiz with easy, medium, hard and extreme levels for the Old and New Testament.
 After each answer it shows the verse (NKJV) and a short explanation.
 
 ## How it's built
@@ -43,7 +43,7 @@ Each entry in `data/questions.json` looks like this:
 }
 ```
 
-`testament` is `OT` or `NT`, `level` is `easy`, `medium` or `hard`, and `answer` is the
+`testament` is `OT` or `NT`, `level` is `easy`, `medium`, `hard` or `extreme`, and `answer` is the
 index of the correct choice (the app shuffles choices when it shows them).
 
 ## Run it locally

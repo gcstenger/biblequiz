@@ -1,7 +1,7 @@
 {
   "name": "Bible Quiz",
   "short_name": "Bible Quiz",
-  "description": "A family Bible quiz with easy, medium and hard levels.",
+  "description": "A family Bible quiz with easy, medium, hard and extreme levels.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

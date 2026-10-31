@@ -1438,5 +1438,485 @@
     "reference": "2 Timothy 3:16",
     "verse": "All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
     "explanation": "The Bible is God-breathed and useful for teaching us how to live."
+  },
+  {
+    "id": "ot-extreme-001",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "How many years did God add to King Hezekiah's life?",
+    "choices": [
+      "Fifteen",
+      "Ten",
+      "Seven",
+      "Twenty"
+    ],
+    "answer": 0,
+    "reference": "Isaiah 38:5",
+    "verse": "Go and tell Hezekiah, 'Thus says the LORD, the God of David your father: \"I have heard your prayer, I have seen your tears; surely I will add to your days fifteen years.\"'",
+    "explanation": "Hezekiah was deathly ill, but God answered his tearful prayer and gave him fifteen more years."
+  },
+  {
+    "id": "ot-extreme-002",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "Which judge of Israel is described as left-handed?",
+    "choices": [
+      "Ehud",
+      "Gideon",
+      "Jephthah",
+      "Othniel"
+    ],
+    "answer": 0,
+    "reference": "Judges 3:15",
+    "verse": "But when the children of Israel cried out to the LORD, the LORD raised up a deliverer for them: Ehud the son of Gera, the Benjamite, a left-handed man. By him the children of Israel sent tribute to Eglon king of Moab.",
+    "explanation": "God used Ehud's left-handedness to free Israel from Eglon, king of Moab."
+  },
+  {
+    "id": "ot-extreme-003",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "What did Shamgar use to strike down six hundred Philistines?",
+    "choices": [
+      "An ox goad",
+      "A jawbone",
+      "A sling",
+      "A tent peg"
+    ],
+    "answer": 0,
+    "reference": "Judges 3:31",
+    "verse": "After him was Shamgar the son of Anath, who killed six hundred men of the Philistines with an ox goad; and he also delivered Israel.",
+    "explanation": "Shamgar gets only one verse in the Bible, but God used a simple farm tool to deliver Israel through him."
+  },
+  {
+    "id": "ot-extreme-004",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "What was the bed of Og, king of Bashan, made of?",
+    "choices": [
+      "Iron",
+      "Cedar",
+      "Ivory",
+      "Gold"
+    ],
+    "answer": 0,
+    "reference": "Deuteronomy 3:11",
+    "verse": "For only Og king of Bashan remained of the remnant of the giants. Indeed his bedstead was an iron bedstead. (Is it not in Rabbah of the people of Ammon?) Nine cubits is its length and four cubits its width, according to the standard cubit.",
+    "explanation": "Og was one of the last giants, and his iron bed was about 13 feet long. God still gave Israel victory over him."
+  },
+  {
+    "id": "ot-extreme-005",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "What was the name of Jonathan's son who was lame in his feet?",
+    "choices": [
+      "Mephibosheth",
+      "Ish-bosheth",
+      "Abner",
+      "Ziba"
+    ],
+    "answer": 0,
+    "reference": "2 Samuel 4:4",
+    "verse": "Jonathan, Saul's son, had a son who was lame in his feet. He was five years old when the news about Saul and Jonathan came from Jezreel; and his nurse took him up and fled. And it happened, as she made haste to flee, that he fell and became lame. His name was Mephibosheth.",
+    "explanation": "Later King David showed kindness to Mephibosheth for Jonathan's sake and let him eat at the king's table."
+  },
+  {
+    "id": "ot-extreme-006",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "Who defeated the Canaanite commander Sisera with a tent peg?",
+    "choices": [
+      "Jael",
+      "Deborah",
+      "Rahab",
+      "Miriam"
+    ],
+    "answer": 0,
+    "reference": "Judges 4:21",
+    "verse": "Then Jael, Heber's wife, took a tent peg and took a hammer in her hand, and went softly to him and drove the peg into his temple, and it went down into the ground; for he was fast asleep and weary. So he died.",
+    "explanation": "Deborah had foretold that the victory over Sisera would go to a woman, and it happened through Jael."
+  },
+  {
+    "id": "ot-extreme-007",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "Whom did God fill with His Spirit to craft the furnishings of the tabernacle?",
+    "choices": [
+      "Bezalel",
+      "Hiram",
+      "Aaron",
+      "Korah"
+    ],
+    "answer": 0,
+    "reference": "Exodus 31:2-3",
+    "verse": "See, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah. And I have filled him with the Spirit of God, in wisdom, in understanding, in knowledge, and in all manner of workmanship,",
+    "explanation": "Bezalel is the first person the Bible says was filled with the Spirit of God, and it was for artistic skill."
+  },
+  {
+    "id": "ot-extreme-008",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "What did Elisha make float after it fell into the Jordan River?",
+    "choices": [
+      "An iron axe head",
+      "A clay pot",
+      "A stone tablet",
+      "A bronze shield"
+    ],
+    "answer": 0,
+    "reference": "2 Kings 6:6",
+    "verse": "So the man of God said, \"Where did it fall?\" And he showed him the place. So he cut off a stick, and threw it in there; and he made the iron float.",
+    "explanation": "The axe head was borrowed, and God cared about this small problem for one of the prophets."
+  },
+  {
+    "id": "ot-extreme-009",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "How many men did God use with Gideon to defeat the Midianites?",
+    "choices": [
+      "Three hundred",
+      "Ten thousand",
+      "Seventy",
+      "Twelve hundred"
+    ],
+    "answer": 0,
+    "reference": "Judges 7:7",
+    "verse": "Then the LORD said to Gideon, \"By the three hundred men who lapped I will save you, and deliver the Midianites into your hand. Let all the other people go, every man to his place.\"",
+    "explanation": "God cut Gideon's army from 32,000 to 300 so Israel would know the victory came from Him."
+  },
+  {
+    "id": "ot-extreme-010",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "Who was Moses' father-in-law, the priest of Midian?",
+    "choices": [
+      "Jethro",
+      "Laban",
+      "Eli",
+      "Boaz"
+    ],
+    "answer": 0,
+    "reference": "Exodus 18:1",
+    "verse": "And Jethro, the priest of Midian, Moses' father-in-law, heard of all that God had done for Moses and for Israel His people—that the LORD had brought Israel out of Egypt.",
+    "explanation": "Jethro later gave Moses wise advice to share the work of judging the people with other leaders."
+  },
+  {
+    "id": "ot-extreme-011",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "What words did the hand write on the wall at King Belshazzar's feast?",
+    "choices": [
+      "MENE, MENE, TEKEL, UPHARSIN",
+      "HOLY TO THE LORD",
+      "ICHABOD, ICHABOD",
+      "SELAH, SELAH, AMEN"
+    ],
+    "answer": 0,
+    "reference": "Daniel 5:25",
+    "verse": "And this is the inscription that was written: MENE, MENE, TEKEL, UPHARSIN.",
+    "explanation": "Daniel explained that God had weighed Belshazzar's kingdom and found it wanting. Babylon fell that very night."
+  },
+  {
+    "id": "ot-extreme-012",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "Ruth's son Obed was the grandfather of which famous king?",
+    "choices": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Hezekiah"
+    ],
+    "answer": 0,
+    "reference": "Ruth 4:17",
+    "verse": "Also the neighbor women gave him a name, saying, \"There is a son born to Naomi.\" And they called his name Obed. He is the father of Jesse, the father of David.",
+    "explanation": "Ruth, a woman from Moab, became great-grandmother of King David and part of the family line of Jesus."
+  },
+  {
+    "id": "ot-extreme-013",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "From what city did Terah and Abram set out toward Canaan?",
+    "choices": [
+      "Ur of the Chaldeans",
+      "Nineveh",
+      "Damascus",
+      "Babylon"
+    ],
+    "answer": 0,
+    "reference": "Genesis 11:31",
+    "verse": "And Terah took his son Abram and his grandson Lot, the son of Haran, and his daughter-in-law Sarai, his son Abram's wife, and they went out with them from Ur of the Chaldeans to go to the land of Canaan; and they came to Haran and dwelt there.",
+    "explanation": "Abram's family left Ur and stopped in Haran, where God later called Abram to go on to Canaan."
+  },
+  {
+    "id": "ot-extreme-014",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "How was David's son Absalom caught during the battle?",
+    "choices": [
+      "His head caught in a terebinth tree",
+      "He fell into a pit",
+      "His chariot broke down",
+      "He was trapped in a cave"
+    ],
+    "answer": 0,
+    "reference": "2 Samuel 18:9",
+    "verse": "Then Absalom met the servants of David. Absalom rode on a mule. The mule went under the thick boughs of a great terebinth tree, and his head caught in the terebinth; so he was left hanging between heaven and earth. And the mule which was under him went on.",
+    "explanation": "Absalom had rebelled against his father David. Even so, David grieved deeply when he died."
+  },
+  {
+    "id": "ot-extreme-015",
+    "testament": "OT",
+    "level": "extreme",
+    "question": "What birds brought food to Elijah by the Brook Cherith?",
+    "choices": [
+      "Ravens",
+      "Doves",
+      "Eagles",
+      "Sparrows"
+    ],
+    "answer": 0,
+    "reference": "1 Kings 17:6",
+    "verse": "The ravens brought him bread and meat in the morning, and bread and meat in the evening; and he drank from the brook.",
+    "explanation": "During a drought, God provided for Elijah in a surprising way, through birds that usually take food rather than give it."
+  },
+  {
+    "id": "nt-extreme-001",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "How many large fish were in the net in John 21?",
+    "choices": [
+      "153",
+      "144",
+      "120",
+      "200"
+    ],
+    "answer": 0,
+    "reference": "John 21:11",
+    "verse": "Simon Peter went up and dragged the net to land, full of large fish, one hundred and fifty-three; and although there were so many, the net was not broken.",
+    "explanation": "After the resurrection, Jesus filled the disciples' empty net, then served them breakfast on the shore."
+  },
+  {
+    "id": "nt-extreme-002",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "What was the name of the high priest's servant whose ear Peter cut off?",
+    "choices": [
+      "Malchus",
+      "Caiaphas",
+      "Barabbas",
+      "Annas"
+    ],
+    "answer": 0,
+    "reference": "John 18:10",
+    "verse": "Then Simon Peter, having a sword, drew it and struck the high priest's servant, and cut off his right ear. The servant's name was Malchus.",
+    "explanation": "Luke tells us Jesus touched the servant's ear and healed him, even as He was being arrested."
+  },
+  {
+    "id": "nt-extreme-003",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "Who had been promised by the Holy Spirit that he would see the Christ before he died?",
+    "choices": [
+      "Simeon",
+      "Zacharias",
+      "Joseph of Arimathea",
+      "Nicodemus"
+    ],
+    "answer": 0,
+    "reference": "Luke 2:25",
+    "verse": "And behold, there was a man in Jerusalem whose name was Simeon, and this man was just and devout, waiting for the Consolation of Israel, and the Holy Spirit was upon him.",
+    "explanation": "Simeon held baby Jesus in the temple and praised God that he had seen His salvation."
+  },
+  {
+    "id": "nt-extreme-004",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "What was the Greek name of Tabitha, whom Peter raised in Joppa?",
+    "choices": [
+      "Dorcas",
+      "Lydia",
+      "Priscilla",
+      "Phoebe"
+    ],
+    "answer": 0,
+    "reference": "Acts 9:36",
+    "verse": "At Joppa there was a certain disciple named Tabitha, which is translated Dorcas. This woman was full of good works and charitable deeds which she did.",
+    "explanation": "Tabitha was known for making clothes for widows. God raised her to life through Peter, and many believed."
+  },
+  {
+    "id": "nt-extreme-005",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "On which island was Paul shipwrecked on his way to Rome?",
+    "choices": [
+      "Malta",
+      "Cyprus",
+      "Crete",
+      "Patmos"
+    ],
+    "answer": 0,
+    "reference": "Acts 28:1",
+    "verse": "Now when they had escaped, they then found out that the island was called Malta.",
+    "explanation": "On Malta a viper bit Paul without harming him, and he healed many of the island's sick."
+  },
+  {
+    "id": "nt-extreme-006",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "What trade did Paul share with Aquila and Priscilla?",
+    "choices": [
+      "Tentmaking",
+      "Fishing",
+      "Carpentry",
+      "Tax collecting"
+    ],
+    "answer": 0,
+    "reference": "Acts 18:3",
+    "verse": "So, because he was of the same trade, he stayed with them and worked; for by occupation they were tentmakers.",
+    "explanation": "Paul often worked with his hands to support himself so he would not be a burden while preaching."
+  },
+  {
+    "id": "nt-extreme-007",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "What was the name of the girl who answered the door when Peter escaped prison?",
+    "choices": [
+      "Rhoda",
+      "Mary",
+      "Martha",
+      "Joanna"
+    ],
+    "answer": 0,
+    "reference": "Acts 12:13",
+    "verse": "And as Peter knocked at the door of the gate, a girl named Rhoda came to answer.",
+    "explanation": "Rhoda was so excited to hear Peter's voice that she ran to tell everyone and left him knocking outside."
+  },
+  {
+    "id": "nt-extreme-008",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "About how old was Jesus when He began His ministry?",
+    "choices": [
+      "Thirty",
+      "Twelve",
+      "Twenty",
+      "Forty"
+    ],
+    "answer": 0,
+    "reference": "Luke 3:23",
+    "verse": "Now Jesus Himself began His ministry at about thirty years of age, being (as was supposed) the son of Joseph, the son of Heli,",
+    "explanation": "Luke gives Jesus' age right before listing His family line back to Adam."
+  },
+  {
+    "id": "nt-extreme-009",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "For which runaway servant did Paul write to Philemon?",
+    "choices": [
+      "Onesimus",
+      "Tychicus",
+      "Epaphras",
+      "Demas"
+    ],
+    "answer": 0,
+    "reference": "Philemon 1:10",
+    "verse": "I appeal to you for my son Onesimus, whom I have begotten while in my chains,",
+    "explanation": "Onesimus became a Christian through Paul, who asked Philemon to welcome him back as a brother."
+  },
+  {
+    "id": "nt-extreme-010",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "What was the name of Timothy's grandmother?",
+    "choices": [
+      "Lois",
+      "Eunice",
+      "Elizabeth",
+      "Salome"
+    ],
+    "answer": 0,
+    "reference": "2 Timothy 1:5",
+    "verse": "when I call to remembrance the genuine faith that is in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am persuaded is in you also.",
+    "explanation": "Timothy's faith was passed down through his grandmother and mother, a picture of faith shared in families."
+  },
+  {
+    "id": "nt-extreme-011",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "Which church in Revelation was called lukewarm?",
+    "choices": [
+      "Laodicea",
+      "Ephesus",
+      "Smyrna",
+      "Philadelphia"
+    ],
+    "answer": 0,
+    "reference": "Revelation 3:16",
+    "verse": "So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth.",
+    "explanation": "Laodicea was a wealthy city whose church had become spiritually comfortable and complacent."
+  },
+  {
+    "id": "nt-extreme-012",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "When Mary and Joseph found 12-year-old Jesus in the temple, what did He say He must be about?",
+    "choices": [
+      "My Father's business",
+      "The work of the priests",
+      "Learning the Law",
+      "Going home to Nazareth"
+    ],
+    "answer": 0,
+    "reference": "Luke 2:49",
+    "verse": "And He said to them, \"Why did you seek Me? Did you not know that I must be about My Father's business?\"",
+    "explanation": "These are the first recorded words of Jesus, and they show He knew God was His Father."
+  },
+  {
+    "id": "nt-extreme-013",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "Where was Apollos, the eloquent teacher, born?",
+    "choices": [
+      "Alexandria",
+      "Antioch",
+      "Tarsus",
+      "Corinth"
+    ],
+    "answer": 0,
+    "reference": "Acts 18:24",
+    "verse": "Now a certain Jew named Apollos, born at Alexandria, an eloquent man and mighty in the Scriptures, came to Ephesus.",
+    "explanation": "Priscilla and Aquila took Apollos aside and explained the way of God more accurately to him."
+  },
+  {
+    "id": "nt-extreme-014",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "From which tribe of Israel did Paul come?",
+    "choices": [
+      "Benjamin",
+      "Judah",
+      "Levi",
+      "Ephraim"
+    ],
+    "answer": 0,
+    "reference": "Philippians 3:5",
+    "verse": "circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of the Hebrews; concerning the law, a Pharisee;",
+    "explanation": "Paul listed his impressive background, then said he counted it all as loss compared to knowing Christ."
+  },
+  {
+    "id": "nt-extreme-015",
+    "testament": "NT",
+    "level": "extreme",
+    "question": "In his letter, Jude calls himself the brother of whom?",
+    "choices": [
+      "James",
+      "Peter",
+      "John",
+      "Thomas"
+    ],
+    "answer": 0,
+    "reference": "Jude 1:1",
+    "verse": "Jude, a bondservant of Jesus Christ, and brother of James, To those who are called, sanctified by God the Father, and preserved in Jesus Christ:",
+    "explanation": "Jude and James are generally understood to be half-brothers of Jesus, yet Jude humbly calls himself a servant."
   }
 ]

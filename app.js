@@ -6,7 +6,7 @@ const STORAGE_KEY = "biblequiz.scores.v1";
 
 const LABELS = {
   OT: "Old Testament", NT: "New Testament", ALL: "Both Testaments",
-  easy: "Easy", medium: "Medium", hard: "Hard",
+  easy: "Easy", medium: "Medium", hard: "Hard", extreme: "Extreme",
 };
 
 const state = {

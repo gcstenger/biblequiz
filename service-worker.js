@@ -1,5 +1,5 @@
 // Caches the app so it opens offline once installed. Bump CACHE when files change.
-const CACHE = "biblequiz-v3";
+const CACHE = "biblequiz-v4";
 const FILES = [
   "./",
   "index.html",
